@@ -1,0 +1,10 @@
+<strings>
+    <string name="MON" value="MÅN"/>
+    <string name="TUE" value="TIS"/>
+    <string name="WED" value="ONS"/>
+    <string name="THU" value="TOR"/>
+    <string name="FRI" value="FRE"/>
+    <string name="SAT" value="LÖR"/>
+    <string name="SUN" value="SÖN"/>
+    <string name="language" value="sv"/>
+</strings>

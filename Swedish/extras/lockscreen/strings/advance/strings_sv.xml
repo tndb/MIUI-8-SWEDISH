@@ -1,0 +1,4 @@
+<resources>
+    <string name="date_format">EEEE, dd. MMMM</string>
+    <string name="emergency_call">Nödanrop</string>
+</resources>

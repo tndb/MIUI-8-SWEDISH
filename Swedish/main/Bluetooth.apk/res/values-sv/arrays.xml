@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ble_profile_mi_band">
+        <item>Vibrera under samtal</item>
+        <item>Vibrera vid meddelande</item>
+        <item>Vibrera vid alarm</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Ta bild</item>
+        <item>Hitta telefon</item>
+        <item>Hitta Mi-key</item>
+    </string-array>
+</resources>

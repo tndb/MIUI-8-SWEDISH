@@ -1,0 +1,4 @@
+<strings>
+    <string name="slider_text" value=">>> Slå av >>>" />
+    <string name="snooze_message" value="Snooza i %d min." />
+</strings>

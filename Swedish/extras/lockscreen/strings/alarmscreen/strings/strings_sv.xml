@@ -1,0 +1,4 @@
+<resources>
+    <string name="slider_text">Dra för att låsa upp</string>
+    <string name="snooze_message">Snooza i %d min</string>
+</resources>
