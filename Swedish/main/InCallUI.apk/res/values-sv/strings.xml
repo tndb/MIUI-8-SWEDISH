@@ -33,7 +33,7 @@
   <string name="callFailed_userBusy">Linje upptagen</string>
   <string name="callUnanswered_forwarded">Vidarebefordrat obesvarat samtal</string>
   <string name="call_button_dialer_text">Knappsats</string>
-  <string name="call_button_tools_text">Funktioner<string>
+  <string name="call_button_tools_text">Funktioner</string>
   <string name="call_contacts_deny_permission_msg">"Du nekade tillstånd att läsa kontakter, kan inte visa kontaktinfo."</string>
   <string name="call_description_recording">Inspelning…</string>
   <string name="call_extension_conference_mode">Konferensläge</string>
