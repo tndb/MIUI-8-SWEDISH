@@ -14,7 +14,7 @@
   <string name="album_name">Dagliga val: %s</string>
   <string name="all_topic">Alla ämnen</string>
   <string name="already_liked">"Du har redan ett bokmärkt detta objekt"</string>
-  <string name="app_name">Explorer</string>
+  <string name="app_name">Filhanterare</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Kamera</string>
   <string name="app_name_downloadedrom">Paket</string>
@@ -73,7 +73,7 @@
   <string name="category_other">Annat</string>
   <string name="category_photo">Foton</string>
   <string name="category_picture">Bilder</string>
-  <string name="category_recent">Nyligen</string>
+  <string name="category_recent">Tidigare</string>
   <string name="category_theme">Tema</string>
   <string name="category_type_document">Dokument</string>
   <string name="category_type_meida">Media</string>
@@ -232,7 +232,7 @@
   <string name="has_installed">Installerad</string>
   <string name="homepage_tab_category">Kategorier</string>
   <string name="homepage_tab_file_view">Lagring</string>
-  <string name="homepage_tab_recent">Nyligen</string>
+  <string name="homepage_tab_recent">Tidigare</string>
   <string name="hot_app">Populära appar</string>
   <string name="hot_comments">Populära kommentarer</string>
   <string name="hot_sticker">Klistermärken</string>
@@ -553,7 +553,7 @@
   <string name="share_youliao4">Upgrade to watch more episodes.</string>
   <string name="shared_sticker_network_permission_tip">"Kunde inte ansluta till nätverket. Kontrollera nätverksanslutningen och försök igen."</string>
   <string name="shared_sticker_page_no_file">"Kunde inte ansluta till nätverket. Kontrollera nätverksanslutningen och försök igen."</string>
-  <string name="shared_sticker_str">Nyligen</string>
+  <string name="shared_sticker_str">Tidigare</string>
   <string name="shared_sticker_suffix">Sticker at %s</string>
   <string name="shared_sticker_use_tip">"You can send the stickers you saved from chats just like you send images.
 (GIFs can be added to Custom in WeChat Stickers)."</string>
@@ -597,7 +597,7 @@
   <string name="title_app_tags">Appar</string>
   <string name="title_enable_documentsui">Starta DocumentsUI</string>
   <string name="title_expire_video">På väg att löpa ut</string>
-  <string name="title_recent">Nyligen</string>
+  <string name="title_recent">Tidigare</string>
   <string name="title_report_video">Rapportera</string>
   <string name="title_select_volume">Välj mapp</string>
   <string name="toast_file_not_can_read">Det finns ingen app som kan hantera denna åtgärd.</string>

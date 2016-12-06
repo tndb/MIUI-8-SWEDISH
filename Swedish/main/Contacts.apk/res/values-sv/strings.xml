@@ -367,7 +367,7 @@ Visitkort är avstängt"</string>
   <string name="device_version_title">Välj en modell</string>
   <string name="dial">Ring</string>
   <string name="dialerDialpadHintText">Slå nummer för att starta samtal</string>
-  <string name="dialerIconLabel">Nyligen</string>
+  <string name="dialerIconLabel">Senaste</string>
   <string name="dialerKeyboardHintText">Använd knappsats för att ringa</string>
   <string name="dialer_addAnotherCall">Lägg till samtal</string>
   <string name="dialer_copy_view_delete_description">Rensa kopierat nummer</string>
@@ -954,8 +954,8 @@ To add a contact to your list of favorites:
   <string name="preference_simple_mode_title">Visa foto och info</string>
   <string name="preference_smart_group_company_summary">Gruppera via företag</string>
   <string name="preference_smart_group_company_title">Företag</string>
-  <string name="preference_smart_group_frequency_summary">Gruppera via mest nyligen</string>
-  <string name="preference_smart_group_frequency_title">Nyligen</string>
+  <string name="preference_smart_group_frequency_summary">Gruppera via senaste</string>
+  <string name="preference_smart_group_frequency_title">Tidigare</string>
   <string name="preference_smart_group_location_summary">Gruppera efter landskod</string>
   <string name="preference_smart_group_location_title">Platser</string>
   <string name="preference_smart_group_title">Smarta grupper</string>
@@ -1003,7 +1003,7 @@ To add a contact to your list of favorites:
   <string name="reading_vcard_canceled_title">Inläsning av vCard avbröts</string>
   <string name="reading_vcard_failed_title">"Kunde ej läsa vCard"</string>
   <string name="rebuild_t9_index_dialog_message">Återbygger…</string>
-  <string name="recent">Nyligen</string>
+  <string name="recent">Senaste</string>
   <string name="recentCallsIconLabel">Samtalshistorik</string>
   <string name="recentCalls_addToContact">Lägg till en existerande kontakt</string>
   <string name="recentCalls_callNumber">Ring %s</string>
@@ -1013,8 +1013,8 @@ To add a contact to your list of favorites:
   <string name="recentCalls_removeFromRecentList">Ta bort från samtalshistorik</string>
   <string name="recentCalls_shareVoicemail">Dela röstmeddelande</string>
   <string name="recentCalls_trashVoicemail">Ta bort röstmeddelande</string>
-  <string name="recent_contacts_label">Nyligen</string>
-  <string name="recent_number">Nyligen</string>
+  <string name="recent_contacts_label">Tidigare</string>
+  <string name="recent_number">Tidigare</string>
   <string name="recent_updates">Nyliga uppdateringar</string>
   <string name="redirect_calls_to_vm_confirm_message">Before setting up your mailbox, check the terms and conditions of your contract with your mobile network provider.</string>
   <string name="redirect_calls_to_vm_confirm_text">OK</string>
@@ -1131,7 +1131,7 @@ To add a contact to your list of favorites:
   <string name="smart_group_frequency_2">1 till 3 månader</string>
   <string name="smart_group_frequency_3">3 till 6 månader</string>
   <string name="smart_group_frequency_4">Över 6 månader sedan</string>
-  <string name="smart_group_frequency_label">Nyligen</string>
+  <string name="smart_group_frequency_label">Senaste</string>
   <string name="smart_group_label">Smarta grupper</string>
   <string name="smart_group_loading">Ett ögonblick…</string>
   <string name="smart_group_location_label">Plats</string>

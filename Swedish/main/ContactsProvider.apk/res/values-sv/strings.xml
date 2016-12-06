@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_label">Contacts Kontaktlagring</string>
+  <string name="app_label">Lagring av kontakter</string>
   <string name="call_log_provider_label">Samtalshistorik</string>
   <string name="create_contact">Ny kontakt</string>
   <string name="debug_dump_database_message">Du kommer 1) göra en kopia av databasen vilket inkluderar all kontaktinformation och samtalshistoriken till interna lagringen och 2) e-posta den. Kom ihåg att ta bort kopian när du har kopierat den eller när du mottagit mailet.</string>
