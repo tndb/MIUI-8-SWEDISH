@@ -967,8 +967,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_consume_rank_hardware">Hardware</string>
   <string name="power_consume_rank_software">Apps</string>
   <string name="power_consume_rank_title">Battery use</string>
-  <string name="power_consume_total_hardware">Hardware: %1$d%%</string>
-  <string name="power_consume_total_software">Apps: %1$d%%</string>
   <string name="power_customize_giveup_change">Abandon changes?</string>
   <string name="power_dialog_cancel">Cancel</string>
   <string name="power_dialog_ok">OK</string>
